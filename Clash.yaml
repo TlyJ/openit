@@ -6220,6 +6220,7 @@ rules:
  - DOMAIN-SUFFIX,dlercloud.com,👉 国外网站
  - DOMAIN,dl.google.com,👉 国外网站
  - DOMAIN,mtalk.google.com,👉 国外网站
+ - DOMAIN-SUFFIX,daycat.space,👉 国外网站
  - DOMAIN-SUFFIX,googletraveladservices.com,👉 国外网站
  - DOMAIN-SUFFIX,1password.com,👉 国外网站
  - DOMAIN-SUFFIX,adguard.org,👉 国外网站
